@@ -1,4 +1,5 @@
 # PI01-MLOPS-soyHenry
+Proyecto integrador de Mateo Betancourt H.
 INTRODUCCIÓN
 Quiero contarles como fue mi experiencia como Data Scientist en una startup de servicios de agregación de plataformas de streaming. El proyecto principal se centró en mejorar la comprensión y el uso de los datos relacionados con las películas transmitidas en la plataforma.
 
