@@ -2,7 +2,6 @@
 from fastapi import FastAPI
 from fastapi import Response
 import pandas as pd
-import numpy as np
 import json
 
 # import locale
