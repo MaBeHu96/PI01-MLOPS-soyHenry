@@ -60,5 +60,4 @@ CONCLUSIONES
 -	En general, se logró una personalización efectiva en la experiencia del usuario, brindando recomendaciones acordes a sus preferencias y necesidades.
 
 -	El proyecto aportó valor y mejoró la experiencia del usuario, y se destaca la importancia de continuar trabajando para ofrecer un servicio aún mejor en el futuro.
-![image](https://github.com/MaBeHu96/PI01-MLOPS-soyHenry/assets/114516506/3141595a-2ec4-4d51-89ef-01ca978f9328)
 
